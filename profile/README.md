@@ -71,8 +71,8 @@ University project that allows managing the staff of a cleaning team and assigni
 
 The project has two repositories:
 
-* MUlimpio-desktop: Has the application for management that is intended for users to control.
-* MUlimpio-micro: Is intended to work in microcontrollers to detect the movement of people.
+* [MUlimpio-desktop](https://github.com/MUlimpio/MUlimpio-desktop): Has the application for management that is intended for users to control.
+* [MUlimpio-micro](https://github.com/MUlimpio/MUlimpio-micro): Is intended to work in microcontrollers to detect the movement of people.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
